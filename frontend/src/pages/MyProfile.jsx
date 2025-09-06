@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-import { input, p } from 'framer-motion/client'
 import { AppContext } from '../context/AppContext'
 import {assets} from '../assets/assets'
 import axios from 'axios'
