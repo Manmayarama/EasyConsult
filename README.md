@@ -187,7 +187,7 @@ Doctors have the following capabilities in their own dashboard:
 This project is actively maintained and developed by a team.
 
 - Maintainer
-  - Manmayarama — Project lead, frontend, backend, deployment, and overall architecture  
+  - Manmaya Rama — Project lead, frontend, backend, deployment, and overall architecture  
     GitHub: https://github.com/Manmayarama
 
 - Collaborators
